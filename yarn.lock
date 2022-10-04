@@ -752,12 +752,13 @@
     glob-all "^3.2.1"
     sass-resources-loader "^2.2.4"
 
-"@pinia/nuxt@^0.1.8":
-  version "0.1.8"
-  resolved "https://registry.yarnpkg.com/@pinia/nuxt/-/nuxt-0.1.8.tgz#457a87b0f39ae47a1306e08ab7d4d390b30b48c9"
-  integrity sha512-+M1GH/4XQdooOulPL7aYzli6UE1R5rWJtgcPhx2/97yYRLhKZvuIT33OauUCjYZ+tQVs8lyKfzt6S2agqzcmWg==
+"@pinia/nuxt@^0.4.2":
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/@pinia/nuxt/-/nuxt-0.4.2.tgz#83b230843cae3b165baf0cda37ba1299c5f403ba"
+  integrity sha512-yPrJVFOTVDsCcwzVvElLmSFB6IKWo+0WpVmVPCZyj/LD2uNYBK8I3lTPHdZ4q/VS2Sj8LkA7aq6S8PFpwguQ0A==
   dependencies:
-    vue-demi "*"
+    "@nuxt/kit" "^3.0.0-rc.9"
+    pinia ">=2.0.22"
 
 "@pkgr/utils@^2.3.1":
   version "2.3.1"
@@ -5086,7 +5087,7 @@ pify@^2.3.0:
   resolved "https://registry.yarnpkg.com/pify/-/pify-2.3.0.tgz#ed141a6ac043a849ea588498e7dca8b15330e90c"
   integrity sha1-7RQaasBDqEnqWISY59yosVMw6Qw=
 
-pinia@^2.0.22:
+pinia@>=2.0.22, pinia@^2.0.22:
   version "2.0.22"
   resolved "https://registry.yarnpkg.com/pinia/-/pinia-2.0.22.tgz#435468e8e6d6aa6f319cb727b23bd51db0844c4a"
   integrity sha512-u+b8/BC+tmvo3ACbYO2w5NfxHWFOjvvw9DQnyT0dW8aUMCPRQT5QnfZ5R5W2MzZBMTeZRMQI7V/QFbafmM9QHw==

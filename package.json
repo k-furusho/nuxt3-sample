@@ -11,7 +11,7 @@
     "@nuxtjs/eslint-module": "^3.1.0",
     "@nuxtjs/style-resources": "^1.2.1",
     "babel-eslint": "^10.1.0",
-    "eslint": "^8.24.0",
+    "eslint": "^8.25.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-nuxt": "^4.0.0",
     "eslint-plugin-prettier": "^4.2.1",
@@ -24,7 +24,7 @@
   "dependencies": {
     "@pinia/nuxt": "^0.1.8",
     "@types/lodash.get": "^4.4.7",
-    "@vee-validate/i18n": "^4.5.11",
+    "@vee-validate/i18n": "^4.6.10",
     "@vee-validate/rules": "^4.6.10",
     "lodash.get": "^4.4.2",
     "pinia": "^2.0.22",

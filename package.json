@@ -19,7 +19,7 @@
     "node-sass": "^7.0.1",
     "nuxt3": "latest",
     "prettier": "^2.7.1",
-    "sass-loader": "^13.0.2"
+    "sass-loader": "^13.1.0"
   },
   "dependencies": {
     "@pinia/nuxt": "^0.4.2",

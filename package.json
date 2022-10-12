@@ -22,7 +22,7 @@
     "sass-loader": "^13.1.0"
   },
   "dependencies": {
-    "@pinia/nuxt": "^0.4.2",
+    "@pinia/nuxt": "^0.4.3",
     "@types/lodash.get": "^4.4.7",
     "@vee-validate/i18n": "^4.7.0",
     "@vee-validate/rules": "^4.7.0",

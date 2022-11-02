@@ -6757,10 +6757,10 @@ validate-npm-package-license@^3.0.1:
     spdx-correct "^3.0.0"
     spdx-expression-parse "^3.0.0"
 
-vee-validate@^4.7.0:
-  version "4.7.0"
-  resolved "https://registry.yarnpkg.com/vee-validate/-/vee-validate-4.7.0.tgz#442c0a9b8dad28790ea10b37b6855f25f3e4f5a8"
-  integrity sha512-7HW2RE8mWaT57Jn+JU7jwczFqtlc1rIAwSbp8kD1L2sO0plhT9YeDNKW5iaI9baosc4h+iyb6itMlXtqAAqAfw==
+vee-validate@^4.7.2:
+  version "4.7.2"
+  resolved "https://registry.yarnpkg.com/vee-validate/-/vee-validate-4.7.2.tgz#7739ab2ae0d55893a6f45faf551e0ada2dfeca6d"
+  integrity sha512-SbrL1HUzpu6D6Og/Q+BFx0LN6B48Z7OrkvQCXwaRyoELEeWPO6SOx1v5t1Sg3OszNtiLH7Q6BgKj/7pzTK1wIw==
   dependencies:
     "@vue/devtools-api" "^6.1.4"
 

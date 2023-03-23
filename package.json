@@ -28,7 +28,7 @@
     "@vee-validate/i18n": "^4.7.4",
     "@vee-validate/rules": "^4.8.3",
     "lodash.get": "^4.4.2",
-    "pinia": "^2.0.23",
+    "pinia": "^2.0.33",
     "sass": "^1.55.0",
     "vee-validate": "^4.7.0"
   }

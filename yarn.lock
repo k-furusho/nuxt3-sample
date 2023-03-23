@@ -1016,7 +1016,6 @@
   integrity sha512-+CDa1MeTSl91oRSl0wgMGGV76hD3JIiN+CDupEEPxCoSaQBs47977OlnP8pp8eTrBrZKMCO4jr5GZo89Qe4gtg==
   dependencies:
     vee-validate "^4.8.3"
-
 "@vercel/nft@^0.22.1":
   version "0.22.1"
   resolved "https://registry.yarnpkg.com/@vercel/nft/-/nft-0.22.1.tgz#0d91d2a21e3a7f0b23ce1550da9870eac4942828"

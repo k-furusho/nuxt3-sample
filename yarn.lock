@@ -1232,12 +1232,13 @@
   resolved "https://registry.yarnpkg.com/@vee-validate/i18n/-/i18n-4.7.4.tgz#3e7eeaa6e48c596daf9e39126b0d45db070b9b21"
   integrity sha512-zK5rnPjgd4kBEfUj4jWUu6GHsldETji/JuorBb+emWSD1QUo4nEr1R7zFqHHunbAQu664iIQnzAlsfzkkXM40A==
 
-"@vee-validate/rules@^4.8.3":
-  version "4.8.3"
-  resolved "https://registry.yarnpkg.com/@vee-validate/rules/-/rules-4.8.3.tgz#819e9c20f64a2909a7c7a25c6b95d34af2bfc3d6"
-  integrity sha512-+CDa1MeTSl91oRSl0wgMGGV76hD3JIiN+CDupEEPxCoSaQBs47977OlnP8pp8eTrBrZKMCO4jr5GZo89Qe4gtg==
+"@vee-validate/rules@^4.8.4":
+  version "4.8.4"
+  resolved "https://registry.yarnpkg.com/@vee-validate/rules/-/rules-4.8.4.tgz#016ad992725114f5f0c19c412a9206499de6e3b8"
+  integrity sha512-GTtE4XdCMl2xDZDyUmIemALN5oK1giMEh0KqwUipZcCjypLKLXuxjF3M6KFSTOeyY+0o+i4xAzcmuhutsfSi7A==
   dependencies:
-    vee-validate "^4.8.3"
+    vee-validate "^4.8.4"
+
 "@vercel/nft@^0.22.6":
   version "0.22.6"
   resolved "https://registry.yarnpkg.com/@vercel/nft/-/nft-0.22.6.tgz#edb30d300bb809c0945ea4c7b87e56f634885541"
@@ -1330,10 +1331,6 @@
   dependencies:
     "@vue/compiler-dom" "3.2.47"
     "@vue/shared" "3.2.47"
-"@vue/devtools-api@^6.4.4":
-  version "6.4.4"
-  resolved "https://registry.yarnpkg.com/@vue/devtools-api/-/devtools-api-6.4.4.tgz#0b024fc8ca91bb4b6035abaf53c5aecc17119b3b"
-  integrity sha512-Ku31WzpOV/8cruFaXaEZKF81WkNnvCSlBY4eOGtz5WMSdJvX1v1WWlSMGZeqUwPtQ27ZZz7B62erEMq8JDjcXw==
 
 "@vue/devtools-api@^6.4.5", "@vue/devtools-api@^6.5.0":
   version "6.5.0"
@@ -6706,10 +6703,10 @@ validate-npm-package-license@^3.0.1:
     spdx-correct "^3.0.0"
     spdx-expression-parse "^3.0.0"
 
-vee-validate@^4.7.0, vee-validate@^4.8.3:
-  version "4.8.3"
-  resolved "https://registry.yarnpkg.com/vee-validate/-/vee-validate-4.8.3.tgz#9fe4d4aeabab75e3340aa0cf27a30f142044f042"
-  integrity sha512-/RcxZH7mnyG1DLXMxc+70llcDFagwkfebs2Yhd5Xmoe95cosNDus5L2g5iDsShZBVUTRBE0ceLHW/FcURvaeDA==
+vee-validate@^4.7.0, vee-validate@^4.8.4:
+  version "4.8.4"
+  resolved "https://registry.yarnpkg.com/vee-validate/-/vee-validate-4.8.4.tgz#d7687b4c43db953f614432a39dbf53d56fc133c8"
+  integrity sha512-wlLBy50t4EMEin5oqxS2mxpqW02TkIsk0H3LcivLztNJKKLW17hpPSQtQnn8wjDLoWWZ/CVOfep6aw77aCAavg==
   dependencies:
     "@vue/devtools-api" "^6.5.0"
 

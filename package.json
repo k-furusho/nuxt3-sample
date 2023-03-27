@@ -16,7 +16,7 @@
     "eslint-plugin-nuxt": "^4.0.0",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-vue": "^9.6.0",
-    "node-sass": "^7.0.3",
+    "node-sass": "^8.0.0",
     "nuxt3": "latest",
     "prettier": "^2.7.1",
     "sass-loader": "^13.1.0"
